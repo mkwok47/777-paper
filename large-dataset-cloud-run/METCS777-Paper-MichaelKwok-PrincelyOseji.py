@@ -184,7 +184,7 @@ plt.title("Pickup location colored by avg trip distance")
 # plt.savefig(f'pickup-loc_by_avg-trip-dist.png')
 save_figure_to_s3(plt, f'pickup-loc_by_avg-trip-dist.png')
 # plt.show()
-master_string += '\nDatashader notes:\nLight green = shorter trips\nDark blue = longer trips'
+master_string += '\n\nDatashader notes:\nLight green = shorter trips\nDark blue = longer trips'
 
 time_taken = datetime.now() - start_time
 master_string += f'\nDatashader completed in {time_taken}'
