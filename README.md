@@ -1,4 +1,4 @@
-This term paper showcases techniques to visualize big data using the NYC taxi dataset.
+This term paper showcases techniques to visualize big data using the NYC taxi dataset. By: Michael Kwok & Princely Oseji.
 
 # Contents
 1. large-dataset-cloud-run: py file to run on large taxi dataset (135 million rows) on AWS
