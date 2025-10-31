@@ -1,5 +1,6 @@
 # Big data visualization
-This term paper showcases techniques to visualize big data using the NYC taxi dataset. By: Michael Kwok & Princely Oseji.
+This term paper showcases techniques to visualize big data using the NYC taxi dataset.
+- By: Michael Kwok & Princely Oseji.
 - Data source: https://chriswhong.com/open-data/foil_nyc_taxi/
 
 # Contents
