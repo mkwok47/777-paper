@@ -18,7 +18,8 @@ This term paper showcases techniques to visualize big data using the NYC taxi da
 1. When creating the EMR cluster, add the install_packages.sh file as a bootstrap action. This installs necessary 3rd party package dependencies used in the python file.
 
 2. When running the step job, supply 4 arguments:
-      - i) Full S3 URI path of the taxi dataset. Example: s3://awesome-bucket/term-paper/taxi-data-sorted-large.csv.bz2 
+      - i) Full S3 URI path of the taxi dataset.
+            - Example: s3://awesome-bucket/term-paper/taxi-data-sorted-large.csv.bz2 
      - ii) Full S3 URI path of desired output directory for txt log output. It should already exist. Example: s3://awesome-bucket/term-paper/run-1/
     - iii) Name of S3 bucket. Example: awesome-bucket
      - iv) Name of subfolder for plot outputs. It should already exist. Example: term-paper/run-1/
