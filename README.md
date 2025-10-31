@@ -1,4 +1,6 @@
+# Big data visualization
 This term paper showcases techniques to visualize big data using the NYC taxi dataset. By: Michael Kwok & Princely Oseji.
+- Data source: https://chriswhong.com/open-data/foil_nyc_taxi/
 
 # Contents
 1. large-dataset-cloud-run: py file to run on large taxi dataset (135 million rows) on AWS
