@@ -6,7 +6,10 @@ This term paper showcases techniques to visualize big data using the [NYC taxi d
 1. **large-dataset-cloud-run**: py file to run on large taxi dataset (135 million rows) on AWS
 2. **small-dataset-local-run**: ipynb file to run on small taxi dataset (1.5 million rows) on local machine
 
-# Outputs
+# Plot outputs
+
+See: [small dataset outputs](small-dataset-local-run/plots) and [large dataset outputs](large-dataset-cloud-run/outputs)
+
 1. Bar graph after **aggregating data** to downsize data volume.
     - Interpretation: by aggregating the data (such as by a categorical column), we can downsize from millions of rows to just several and derive useful, high-level insights that summarize the data.
 
